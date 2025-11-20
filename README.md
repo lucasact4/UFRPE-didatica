@@ -25,4 +25,4 @@ Esta landing page foi pensada para:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/lucasact4/nossa-escola-sem-desperdicio-de-agua.git
+   git clone https://github.com/lucasact4/UFRPE-didatica.git
